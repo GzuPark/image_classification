@@ -1,4 +1,4 @@
-##Udacity Deep Learning Foundations Nano-Degree image classification project
+## Udacity Deep Learning Foundations Nano-Degree image classification project
 
 This is second project on [DNFND class](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101). In this project, I classify images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html), and I access the [floydhub.com](https://www.floydhub.com) for using GPU on this project.
 
